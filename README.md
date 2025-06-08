@@ -41,10 +41,17 @@
 ## 📂 專案結構
 vc_image_encryptor/
 ├── main.py # GUI 主程式
+
 ├── encrypt.py # VC 加密模組
+
 ├── decrypt.py # VC 解密模組
+
 ├── qr_utils.py # QRCode 產生與掃描模組
+
 ├── share1.png # 自動生成的圖層一
+
 ├── share2.png # 自動生成的圖層二
+
 ├── recovered.png # 合成圖（若成功還原）
+
 └── qrcode.png # 產生的 QR 原圖
